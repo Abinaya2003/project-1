@@ -117,7 +117,7 @@ dt {
     border-radius: 50%;
     background: url("./myphoto.jpg") no-repeat;
     background-size: 300px 300px;
-    background-position-x: 10px;
+    background-position-x: 30px;
     /* border: 3px solid #585858; */
 }
 
